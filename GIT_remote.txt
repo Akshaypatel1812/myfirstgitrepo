@@ -1,0 +1,8 @@
+1.create a git account 
+2.create empty repo
+3.do local commit
+  3.1.git config --global username "Akshaypatel1812"
+  3.2.git config --global email "pak180301@gmail.com"
+4.git push -u origin master 
+  4.1username?->"Akshaypatel1812"
+  4.2password?->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
